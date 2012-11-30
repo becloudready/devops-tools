@@ -2,7 +2,6 @@
 #ifndef ISO_LISTENER_H
 #define ISO_LISTENER_H
 
-## some changes
 
 #include <sys/types.h>
 #include <sys/socket.h>
