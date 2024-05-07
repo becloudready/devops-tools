@@ -8,7 +8,7 @@ To leverage the tools and scripts in this repository, you can either clone the e
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/devops-toolbox.git
+git clone https://github.com/becloudready/devops-tools.git
 cd devops-toolbox
 ```
 
@@ -58,7 +58,7 @@ We welcome contributions to this repository! Here's how you can get involved:
 2. **Clone Your Fork**: Clone your forked repository to your local machine (replace `yourusername` with your username).
 
 ```bash
-git clone https://github.com/yourusername/devops-toolbox.git
+git clone https://github.com/becloudready/devops-tools.git
 ```
 
 3. **Create a New Branch**: Navigate to the cloned directory and create a new branch for your contributions.
