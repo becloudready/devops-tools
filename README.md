@@ -1,4 +1,4 @@
-**# DevOps Toolbox**
+# DevOps Toolbox**
 
 Welcome to the DevOps Toolbox! This curated collection of tools, scripts, and resources aims to empower DevOps professionals by automating and streamlining operations across development and production environments. Whether you're setting up CI/CD pipelines, managing cloud infrastructure, or ensuring system security, this toolbox has something to offer.
 
