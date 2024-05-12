@@ -3,7 +3,21 @@
 
 - Flexible Mysql Template
 - Public Access ( open )
-- 
+
+## Login
+
+```
+az login
+
+```
+
+## First do the what-if dry run ( similar to TF plan)
+
+```
+az deployment group what-if --name bicep-mysql --resource-group biceps-demo-rg --template-file flexible-mysql-vnet.bicep --parameters parameters.json
+```
+
+## Run the full deployment
 
 ```
 az deployment group create --name bicep-mysql --resource-group biceps-demo-rg --template-file flexible-mysql-vnet.bicep --parameters parameters.json

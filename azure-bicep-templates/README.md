@@ -11,11 +11,19 @@ Before you can deploy these templates, ensure you meet the following prerequisit
 
 ## Getting Started
 
+
 To get started with these Bicep templates, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/becloudready/azure-bicep-templates.git
-cd azure-bicep-templates
+git clone git@github.com:becloudready/devops-tools.git
+cd devops-tools
+```
+
+Move to right folder
+
+```
+cd devops-tools/azure-bicep-templates
+
 ```
 
 ## Repository Structure
